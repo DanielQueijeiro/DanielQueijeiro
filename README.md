@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web app development<br>🌱 I’m currently learning back-end development
+🔭 I’m currently developing a web app development as a project<br>🌱 I’m currently learning back-end development as a part of Oracle's Alura ONE program.
 
 
 ## 🌐 Socials:
