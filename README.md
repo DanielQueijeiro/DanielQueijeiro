@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently studying interconnection of devices<br>🌱 I’m currently learning back-end development as a part of Oracle's Alura ONE program.
+👋 Hey there! I'm Daniel Queijeiro Albo, a 20-year-old computer science student from Monterrey Institute of Technology and Higher Education. With a passion for innovative problem-solving and a love for code, I'm on a mission to craft impactful software solutions.
+
+🔧 My GitHub is a reflection of my journey through the world of tech, featuring projects that range from cutting-edge algorithms to user-friendly applications. I thrive on collaboration and am always eager to learn and contribute to exciting open-source ventures.
+
+🌟 Dive into my repositories and let's create something amazing together!
 
 
 ## 🌐 Socials:
