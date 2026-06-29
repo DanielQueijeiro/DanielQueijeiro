@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel Queijeiro 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+%26+Data+Engineer;Software+Engineer;I+build+AI-enabled+systems+and+ship+products;Turning+data+into+real-time+decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=620&lines=AI+%26+Data+Engineer;Software+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielqueijeiro-0377a2292/)
 [![Email](https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.queijeiro@outlook.com)
